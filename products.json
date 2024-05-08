@@ -1,0 +1,12 @@
+{
+    "1234567890123": {
+        "manufacturer_country": "China",
+        "product_name": "Smartphone",
+        "price": 499.99
+    },
+    "9876543210987": {
+        "manufacturer_country": "USA",
+        "product_name": "Laptop",
+        "price": 899.99
+    }
+}
